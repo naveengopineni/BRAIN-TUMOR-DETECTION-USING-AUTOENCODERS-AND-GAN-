@@ -15,16 +15,16 @@ streamlit run app.py
     -  Utilizes deep residual learning to improve classification accuracy. 
     -  Addresses common deep learning challenges like vanishing gradients.
 # SOFTWARE REQUIREMENTS 
-   ● Operating System: Windows 10/11, Ubuntu 20.04+, or macOS 
-   ● Programming Language: Python 3.8+ 
-   ● Libraries & Frameworks: 
-   o Scikit-learn (for Random Forest) 
-   o Pandas & NumPy (for data processing) 
-   o Matplotlib & Seaborn (for data visualization) 
-   o Streamlit (for UI development) 
-   o Joblib (for model serialization) 
-   ● Database (if needed): SQLite or PostgreSQL 
-   ● IDE: VS Code, PyCharm, or Jupiter Notebook
+   - Operating System: Windows 10/11, Ubuntu 20.04+, or macOS 
+   - Programming Language: Python 3.8+ 
+   - Libraries & Frameworks: 
+   - Scikit-learn (for Random Forest) 
+   - Pandas & NumPy (for data processing) 
+   - Matplotlib & Seaborn (for data visualization) 
+   - Streamlit (for UI development) 
+   - Joblib (for model serialization) 
+   - Database (if needed): SQLite or PostgreSQL 
+   - IDE: VS Code, PyCharm, or Jupiter Notebook
 # System Architecture Overview 
   1) Input Layer: MRI scans. 
   2) Processing Layer: Image preprocessing, feature extraction, and image enhancement. 
