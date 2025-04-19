@@ -5,7 +5,7 @@
 streamlit run appp.py
 ```
 # OVERVIEW OF THE PROJECT 
-  #1. Autoencoders for Feature Extraction: 
+  1. Autoencoders for Feature Extraction: 
    - Reduces image dimensionality while retaining essential features. 
    -  Enhances image quality by reducing noise and irrelevant data.            
   2. Generative Adversarial Networks (GANs) for Data Augmentation:                                                                           
