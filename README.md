@@ -5,15 +5,15 @@
 streamlit run appp.py
 ```
 # OVERVIEW OF THE PROJECT 
-  #h51. Autoencoders for Feature Extraction: 
+  #1. Autoencoders for Feature Extraction: 
    - Reduces image dimensionality while retaining essential features. 
-   -  Enhances image quality by reducing noise and irrelevant data. 
-  #h52. Generative Adversarial Networks (GANs) for Data Augmentation: 
-    - Generates synthetic MRI images to enhance dataset variability.  
-    -  Improves model generalization and robustness. 
-  #h53. ResNet for Tumor Classification: 
-    -  Utilizes deep residual learning to improve classification accuracy. 
-    -  Addresses common deep learning challenges like vanishing gradients.
+   -  Enhances image quality by reducing noise and irrelevant data.            
+  2. Generative Adversarial Networks (GANs) for Data Augmentation:                                                                           
+    - Generates synthetic MRI images to enhance dataset variability.                                                            
+    -  Improves model generalization and robustness.                                    
+  3. ResNet for Tumor Classification:                                                
+    -  Utilizes deep residual learning to improve classification accuracy.                                       
+    -  Addresses common deep learning challenges like vanishing gradients.                                    
 # SOFTWARE REQUIREMENTS 
    - Operating System: Windows 10/11, Ubuntu 20.04+, or macOS 
    - Programming Language: Python 3.8+ 
