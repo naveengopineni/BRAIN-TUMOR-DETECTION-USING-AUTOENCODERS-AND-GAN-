@@ -2,16 +2,16 @@
  This project leverages deep learning techniques,  specifically Autoencoders, Generative Adversarial Networks (GANs), and the ResNet  model, to improve the detection and classification of brain tumors from medical images.
 # command of running of the program 
 ```bash
-streamlit run app.py
+streamlit run appp.py
 ```
 # OVERVIEW OF THE PROJECT 
-  1. Autoencoders for Feature Extraction: 
+  #h51. Autoencoders for Feature Extraction: 
    - Reduces image dimensionality while retaining essential features. 
    -  Enhances image quality by reducing noise and irrelevant data. 
-  2. Generative Adversarial Networks (GANs) for Data Augmentation: 
+  #h52. Generative Adversarial Networks (GANs) for Data Augmentation: 
     - Generates synthetic MRI images to enhance dataset variability.  
     -  Improves model generalization and robustness. 
-  3. ResNet for Tumor Classification: 
+  #h53. ResNet for Tumor Classification: 
     -  Utilizes deep residual learning to improve classification accuracy. 
     -  Addresses common deep learning challenges like vanishing gradients.
 # SOFTWARE REQUIREMENTS 
